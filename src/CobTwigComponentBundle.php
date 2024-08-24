@@ -18,7 +18,7 @@ use Symfony\UX\TwigComponent\DependencyInjection\Compiler\TwigComponentPass;
 /**
  * @author Kevin Bond <kevinbond@gmail.com>
  */
-final class TwigComponentBundle extends Bundle
+final class CobTwigComponentBundle extends Bundle
 {
     public function build(ContainerBuilder $container): void
     {
